@@ -1,4 +1,4 @@
-#!/Users/cgiglio/Desktop/flask-aws-tutorial-master/flask-aws/bin/python
+#!/Users/cgiglio/Desktop/flask-aws-tutorial-main/flask-aws/bin/python
 
 import argparse
 import code
